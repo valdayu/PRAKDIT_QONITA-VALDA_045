@@ -1,0 +1,15 @@
+FILE_NAME VendorMaster.FIL
+~Table Imported via OpenXML Excel 20-May-2025 13:52:07
+~.20-May-2025 13:52:07 _ IMPORT OPENEXCEL TO VendorMaster FILE "C:\Users\akuntansi\Downloads\Account Payable (1).xlsx" TABLE "VendorMaster" SERVER "LOCAL" FLAT "VendorMaster.FIL" 
+[FILESIZE] 20
+[LASTVIEW] "VendorMaster"
+[REFRESH] OPENEXCEL FILE "C:\Users\akuntansi\Downloads\Account Payable (1).xlsx" TABLE "VendorMaster" SERVER "LOCAL" FLAT "VendorMaster.FIL"
+[SERVER] LOCAL
+[DELIMITED] 0 9 0
+[UTF8]
+[VERSION] 1
+RECORD_LENGTH 114
+Vendor_No                       UTF8        1   5   NATIVE [D]  
+Vendor_Name                     UTF8        6  25   NATIVE [D]  
+Vendor_Street                   UTF8       31  29   NATIVE [D]  
+Vendor_City                     UTF8       60  12   NATIVE [D]  

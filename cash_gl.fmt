@@ -1,0 +1,18 @@
+FILE_NAME cash_gl.FIL
+~Table Imported via OpenXML Excel 27-May-2025 14:41:37
+~.27-May-2025 14:41:57 _ IMPORT OPENEXCEL TO cash_gl FILE "C:\Users\akuntansi\Downloads\Cash GL.xlsx" TABLE "Sheet1" SERVER "LOCAL" FLAT "cash_gl.FIL" 
+[FILESIZE] 100
+[LASTVIEW] "cash_gl"
+[REFRESH] OPENEXCEL FILE "C:\Users\akuntansi\Downloads\Cash GL.xlsx" TABLE "Sheet1" SERVER "LOCAL" FLAT "cash_gl.FIL"
+[SERVER] LOCAL
+[DELIMITED] 0 9 0
+[UTF8]
+[VERSION] 1
+RECORD_LENGTH 150
+Posting_Date                    DATETIME    1  10   PICTURE "yyyy-mm-dd" NATIVE [D]  
+Voucher_Number                  PRINT      11   5 0 DECIMAL '.' NATIVE [D]  
+Voucher__Description            UTF8       16  10   NATIVE [D]  
+Account_Number                  PRINT      26   3 0 DECIMAL '.' NATIVE [D]  
+Amount_Debit                    PRINT      29   9 0 DECIMAL '.' NATIVE [D]  
+Amount_Credit                   PRINT      38   9 0 DECIMAL '.' NATIVE [D]  
+Balance                         PRINT      47   9 0 DECIMAL '.' NATIVE [D]  

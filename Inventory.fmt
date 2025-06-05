@@ -1,0 +1,18 @@
+FILE_NAME Inventory.FIL
+~Table Imported via OpenXML Excel 27-May-2025 13:51:55
+~.27-May-2025 13:53:03 _ IMPORT OPENEXCEL TO Inventory FILE "C:\Users\akuntansi\Downloads\Inventory.xlsx" TABLE "Inventory" SERVER "LOCAL" FLAT "Inventory.FIL" 
+[FILESIZE] 152
+[LASTVIEW] "Inventory"
+[FILTER] Quantitiy=-1
+[REFRESH] OPENEXCEL FILE "C:\Users\akuntansi\Downloads\Inventory.xlsx" TABLE "Inventory" SERVER "LOCAL" FLAT "Inventory.FIL"
+[SERVER] LOCAL
+[DELIMITED] 0 9 0
+[UTF8]
+[VERSION] 1
+RECORD_LENGTH 135
+Cost_Date                       DATETIME    1  10   PICTURE "yyyy-mm-dd" NATIVE [D]  
+Product_Description             UTF8       11  22   NATIVE [D]  
+Product_Number                  UTF8       33   9   NATIVE [D]  
+Quantitiy                       PRINT      42   2 0 DECIMAL '.' NATIVE [D]  
+Cost_per_unit                   PRINT      44   6 0 DECIMAL '.' NATIVE [D]  
+Inventory_Cost                  PRINT      50   7 0 DECIMAL '.' NATIVE [D]  

@@ -1,0 +1,13 @@
+FILE_NAME otorisasi 1.fil
+~Table Imported via OpenXML Excel 27-May-2025 14:41:37
+~.27-May-2025 14:41:57 _ IMPORT OPENEXCEL TO cash_gl FILE "C:\Users\akuntansi\Downloads\Cash GL.xlsx" TABLE "Sheet1" SERVER "LOCAL" FLAT "cash_gl.FIL" 
+~.27-May-2025 14:55:59 cash_gl EXTRACT FIELDS Amount_Credit TO "otorisasi 1" OPEN IF Between(Amount_Credit ,20000000,50000000)
+~Input : Records:100         Control Total:0                    
+~Output: Records:69          Control Total:0                    
+[FILESIZE] 69
+[LASTVIEW] "otorisasi_1"
+[SERVER] LOCAL
+[UTF8]
+[VERSION] 1
+RECORD_LENGTH 9
+Amount_Credit                   PRINT       1   9 0 DECIMAL '.'  

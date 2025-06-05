@@ -1,0 +1,17 @@
+FILE_NAME AP_Trans_2021.FIL
+~Table Imported via OpenXML Excel 20-May-2025 13:52:07
+~.20-May-2025 13:52:07 _ IMPORT OPENEXCEL TO AP_Trans_2021 FILE "C:\Users\akuntansi\Downloads\Account Payable (1).xlsx" TABLE "AP_Trans_2021" SERVER "LOCAL" FLAT "AP_Trans_2021.FIL" 
+[FILESIZE] 127
+[LASTVIEW] "AP_Trans_2021"
+[REFRESH] OPENEXCEL FILE "C:\Users\akuntansi\Downloads\Account Payable (1).xlsx" TABLE "AP_Trans_2021" SERVER "LOCAL" FLAT "AP_Trans_2021.FIL"
+[SERVER] LOCAL
+[DELIMITED] 0 9 0
+[UTF8]
+[VERSION] 1
+RECORD_LENGTH 116
+Vendor_No                       PRINT       1   5 0 DECIMAL '.' NATIVE [D]  
+Invoice_No                      UTF8        6   8   NATIVE [D]  
+Invoice_Date                    DATETIME   14  10   PICTURE "yyyy-mm-dd" NATIVE [D]  
+Due_date                        DATETIME   24  10   PICTURE "yyyy-mm-dd" NATIVE [D]  
+Prodno                          UTF8       34   9   NATIVE [D]  
+Invoice_Amount                  PRINT      43   9 0 DECIMAL '.' NATIVE [D]  

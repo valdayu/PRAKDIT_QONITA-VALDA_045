@@ -1,0 +1,420 @@
+Log File C:\Qonita Valda Yuhanda_12030122120045\Qonita Valda Yuhanda_12030122120045.log Opened at 13:39:28 on 20-May-2025
+@ IMPORT OPENEXCEL TO Sheet1 FILE "C:\Users\akuntansi\Downloads\Cash Disbursement (2).xlsx" TABLE "Sheet1" SERVER "LOCAL" FLAT "Sheet1.FIL" 
+@ OPEN Sheet1 TABLE 0
+  4 fields activated
+@ OPEN Sheet1
+Closing Table Sheet1 (Table 0) and all active fields
+  4 fields activated
+@ OPEN Sheet1
+Closing Table Sheet1 (Table 0) and all active fields
+  4 fields activated
+You may not rename currently open Tables
+@ OPEN Sheet1
+Closing Table Sheet1 (Table 0) and all active fields
+  4 fields activated
+You may not rename currently open Tables
+@ QUIT
+Closing Table Sheet1 (Table 0) and all active fields
+Log File C:\Qonita Valda Yuhanda_12030122120045 (jgn dihapus)\Qonita Valda Yuhanda_12030122120045.log Opened at 13:49:04 on 20-May-2025
+@ OPEN Sheet1
+  4 fields activated
+You may not rename currently open Tables
+@ IMPORT OPENEXCEL TO AP_Trans_2021 FILE "C:\Users\akuntansi\Downloads\Account Payable (1).xlsx" TABLE "AP_Trans_2021" SERVER "LOCAL" FLAT "AP_Trans_2021.FIL" 
+@ IMPORT OPENEXCEL TO VendorMaster FILE "C:\Users\akuntansi\Downloads\Account Payable (1).xlsx" TABLE "VendorMaster" SERVER "LOCAL" FLAT "VendorMaster.FIL" 
+@ OPEN AP_Trans_2021
+Closing Table Sheet1 (Table 0) and all active fields
+  6 fields activated
+@ OPEN VendorMaster
+Closing Table AP_Trans_2021 (Table 0) and all active fields
+  4 fields activated
+@ OPEN AP_Trans_2021
+Closing Table VendorMaster (Table 0) and all active fields
+  6 fields activated
+@ TOTAL FIELDS ALL
+<<< Table Data:AP_Trans_2021TOTAL >>>
+Field NameTotal
+
+Vendor_No1,271,398
+Invoice_Amount3,097,498,639
+
+<<< Table End >>>
+@ TOTAL
+Enter the fields to TOTAL
+@ VERIFY FIELDS ALL ERRORLIMIT 20
+  0 data validity errors detected
+@ VERIFY FIELDS ALL ERRORLIMIT 20
+  0 data validity errors detected
+@ QUIT
+Closing Table AP_Trans_2021 (Table 0) and all active fields
+Log File C:\Qonita Valda Yuhanda_12030122120045 (jgn dihapus)\Qonita Valda Yuhanda_12030122120045.log Opened at 14:23:51 on 20-May-2025
+@ OPEN AP_Trans_2021
+  6 fields activated
+Closing Table AP_Trans_2021 (Table 0) and all active fields
+Log File C:\Qonita Valda Yuhanda_12030122120045 (jgn dihapus)\Qonita Valda Yuhanda_12030122120045.log Opened at 13:34:48 on 27-May-2025
+@ OPEN AP_Trans_2021
+  6 fields activated
+@ OPEN Sheet1
+Closing Table AP_Trans_2021 (Table 0) and all active fields
+  4 fields activated
+@ OPEN VendorMaster
+Closing Table Sheet1 (Table 0) and all active fields
+  4 fields activated
+@ OPEN AP_Trans_2021
+Closing Table VendorMaster (Table 0) and all active fields
+  6 fields activated
+@ OPEN AP_Trans_2021
+Closing Table AP_Trans_2021 (Table 0) and all active fields
+  6 fields activated
+@ OPEN Sheet1
+Closing Table AP_Trans_2021 (Table 0) and all active fields
+  4 fields activated
+@ OPEN VendorMaster
+Closing Table Sheet1 (Table 0) and all active fields
+  4 fields activated
+@ OPEN AP_Trans_2021
+Closing Table VendorMaster (Table 0) and all active fields
+  6 fields activated
+@ OPEN AP_Trans_2021
+Closing Table AP_Trans_2021 (Table 0) and all active fields
+  6 fields activated
+@ OPEN Sheet1
+Closing Table AP_Trans_2021 (Table 0) and all active fields
+  4 fields activated
+@ OPEN VendorMaster
+Closing Table Sheet1 (Table 0) and all active fields
+  4 fields activated
+@ OPEN Sheet1
+Closing Table VendorMaster (Table 0) and all active fields
+  4 fields activated
+@ OPEN AP_Trans_2021
+Closing Table Sheet1 (Table 0) and all active fields
+  6 fields activated
+@ OPEN AP_Trans_2021
+Closing Table AP_Trans_2021 (Table 0) and all active fields
+  6 fields activated
+@ IMPORT OPENEXCEL TO Inventory FILE "C:\Users\akuntansi\Downloads\Inventory.xlsx" TABLE "Inventory" SERVER "LOCAL" FLAT "Inventory.FIL" 
+@ OPEN Inventory TABLE 1
+  6 fields activated
+@ OPEN Inventory TABLE 1
+Closing Table Inventory (Table 1) and all active fields
+  6 fields activated
+@ VERIFY FIELDS ALL ERRORLIMIT 20
+<<< Table Data:InventoryVERIFY >>>
+RecordFieldTypeContents (text)Contents (hex)
+
+13Cost_DateDATETIME          20 20 20 20 20 20 20 20 20 20 
+
+<<< Table End >>>
+  1 data validity errors detected
+@ LOCATE RECORD 13
+Located record 13
+@ OPEN Inventory TABLE 1
+Closing Table Inventory (Table 1) and all active fields
+  6 fields activated
+@ OPEN Inventory TABLE 1
+Closing Table Inventory (Table 1) and all active fields
+  6 fields activated
+@ GAPS ON Product_Number PRESORT
+Presorting Primary data file.
+<<< Table Data:InventoryGAPS >>>
+Gap Start orGap EndNumber of
+Missing ItemMissing Items
+
+1010271110102839129
+101028411011903916199
+101190411013441915379
+1013442110135059639
+101350611015514920089
+10155151101551599
+10155161101551699
+101551711020721952049
+102072211022661919399
+102266211031088984269
+1031089110311799909
+1031180110311989189
+1031199110551339239349
+105513411063113979799
+106311411063118949
+1063119110803759172569
+108037612390371113099951
+239037132394637142659
+239463732397304126669
+2397304324100311127269
+24100313241043113999
+24104313241065112199
+24106513241086112099
+24108613241121613549
+24112163241213319169
+24121333241287117379
+241287132412881199
+2412881324128931119
+24128933241305711639
+24130573241331112539
+24133113241393716259
+2413937324140031659
+24140033241448114779
+241448132418843143619
+24188433241952616829
+24195263300303225835060
+3003032430302302271979
+3030230430302902599
+3030290430303342439
+303033443030340259
+30303404303034129
+30303414303093725959
+303093743032166212289
+303216643032168219
+3032168430322302619
+30322304303248022499
+303248043032488279
+303248843036416239279
+303641643041255248389
+3041255430412752199
+3041275430412902149
+30412904304142821379
+304142843041431229
+3041431430934422520109
+30934424342550023320579
+34255004402200735965070
+40220075402249834909
+402249854022501329
+4022501540225933919
+4022593540226053119
+40226055402321936139
+40232195402402838089
+4024028540240663379
+4024066540240883219
+4024088540241313429
+4024131540241753439
+40241755402432231469
+40243225402470333809
+402470354027032323289
+402703254027035329
+40270355402760535699
+40276055402771531099
+402771555220451411927360
+52204516522045249
+52204526522088044279
+52208806522105441739
+5221054652484404273859
+52484406524844149
+52484416524844249
+52484426524844349
+524844365250400419569
+525040065253015426149
+5253015652720304190149
+5272030652720614309
+527206165277001449399
+52770016601003057330290
+60100307601003159
+601003176010033519
+601003376010035519
+60100357601020651709
+601020676010208519
+60102087601020959
+60102097601021059
+60102107601021159
+601021176011227510159
+601122776011229519
+601122976011235559
+601123576020030587949
+602003076021706516759
+60217067602214954429
+60221497602215059
+6022150760221675169
+60221677701041769882500
+7010417870104326149
+701043287010434619
+701043487010437629
+701043787010439619
+7010439870104656259
+701046587010467619
+70104678801008179996140
+8010081980101017199
+80101019801026171599
+80102619801026279
+8010262980102917289
+80102919801062173299
+801062198012343717219
+8012343980123937499
+801239398012396729
+8012396980124517549
+80124519801260071489
+801260098012605749
+8012605980126307249
+8012630980435437309129
+804354398051277777339
+8051277980935297422519
+8093529980935427129
+80935429809387473319
+8093874980938997249
+80938999900100109071012
+900100129006959059579
+900695929008100011409
+9008100290501050420049
+9050105290501540489
+90501542905015509
+90501552905040602509
+9050406290504760699
+90504762905063301569
+90506332905078101479
+905078129050784029
+90507842905078509
+9050785290508190339
+90508192905095601369
+9050956290509930369
+905099329050998049
+905099829058407174090
+90584073905853211249
+905853239059991114589
+905999139066961069698
+90669612937884103118799
+9378841213030560236517191
+13030560418012215749816554
+
+<<< Table End >>>
+  151 gaps detected
+@ OPEN Inventory TABLE 1
+Closing Table Inventory (Table 1) and all active fields
+  6 fields activated
+@ DUPLICATES ON Product_Number PRESORT
+Presorting Primary data file.
+  0 duplicates detected
+@ TOTAL FIELDS Inventory_Cost
+<<< Table Data:InventoryTOTAL >>>
+Field NameTotal
+
+Inventory_Cost320,557,500
+
+<<< Table End >>>
+@ STATISTICS ON ALL NUMBER 5
+<<< Table Data:InventorySTATISTICSCost_Date >>>
+Field: Cost_DateNumberTotalAverage
+
+Valid15104-Aug-2021
+Invalid0
+Blank1
+Weekends47
+Range356 Days 
+
+<<< Table End >>>
+<<< Table Data:InventorySORTCost_Date:Cost_Date >>>
+HighestLowest
+
+29-Dec-202107-Jan-2021
+29-Dec-202107-Jan-2021
+29-Dec-202107-Jan-2021
+29-Dec-202107-Jan-2021
+18-Dec-202107-Jan-2021
+
+<<< Table End >>>
+<<< Table Data:InventorySTATISTICSQuantitiy >>>
+Field: QuantitiyNumberTotalAverage
+
+Positive1493,84226
+Zeros1
+Negative2-2-1
+Totals1523,84025
+Abs Value3,844
+Range50
+
+<<< Table End >>>
+<<< Table Data:InventorySORTQuantitiy:Quantitiy >>>
+HighestLowest
+
+49-1
+48-1
+480
+471
+473
+
+<<< Table End >>>
+<<< Table Data:InventorySTATISTICSCost_per_unit >>>
+Field: Cost_per_unitNumberTotalAverage
+
+Positive15212,795,00084,178
+Zeros0
+Negative000
+Totals15212,795,00084,178
+Abs Value12,795,000
+Range65,000
+
+<<< Table End >>>
+<<< Table Data:InventorySORTCost_per_unit:Cost_per_unit >>>
+HighestLowest
+
+110,00045,000
+110,00045,000
+110,00045,000
+110,00045,000
+110,00045,000
+
+<<< Table End >>>
+<<< Table Data:InventorySTATISTICSInventory_Cost >>>
+Field: Inventory_CostNumberTotalAverage
+
+Positive149320,757,5002,152,735
+Zeros1
+Negative2-200,000-100,000
+Totals152320,557,5002,108,931
+Abs Value320,957,500
+Range5,160,000
+
+<<< Table End >>>
+<<< Table Data:InventorySORTInventory_Cost:Inventory_Cost >>>
+HighestLowest
+
+5,060,000-100,000
+4,950,000-100,000
+4,950,0000
+4,950,000100,000
+4,900,000150,000
+
+<<< Table End >>>
+@ SET FILTER TO Quantitiy=-1
+@ IMPORT OPENEXCEL TO cash_gl FILE "C:\Users\akuntansi\Downloads\Cash GL.xlsx" TABLE "Sheet1" SERVER "LOCAL" FLAT "cash_gl.FIL" 
+@ OPEN cash_gl TABLE 2
+  7 fields activated
+@ VERIFY FIELDS ALL ERRORLIMIT 20
+  0 data validity errors detected
+@ SEQUENCE ON Voucher_Number ERRORLIMIT 20
+  0 data sequence errors detected
+@ GAPS ON Voucher_Number PRESORT
+Presorting Primary data file.
+<<< Table Data:cash_glGAPS >>>
+Gap Start orGap EndNumber of
+Missing ItemMissing Items
+
+12100021000
+
+<<< Table End >>>
+  1 gaps detected
+@ DUPLICATES ON Voucher_Number PRESORT
+Presorting Primary data file.
+  0 duplicates detected
+@ EXTRACT FIELDS Amount_Credit TO "otorisasi 1" OPEN IF Between(Amount_Credit ,20000000,50000000)
+  69 of 100 met the test: Between(Amount_Credit ,20000000,50000000)
+  Extraction to Table otorisasi 1.fil is complete
+  69 records produced
+@ OPEN otorisasi_1 TABLE 2
+Closing Table cash_gl (Table 2) and all active fields
+  1 fields activated
+@ QUIT
+Closing Table otorisasi_1 (Table 2) and all active fields
+Closing Table Inventory (Table 1) and all active fields
+Closing Table AP_Trans_2021 (Table 0) and all active fields
+Log File C:\Qonita Valda Yuhanda_12030122120045 (jgn dihapus)\Qonita Valda Yuhanda_12030122120045.log Opened at 10:04:59 on 28-May-2025
+@ OPEN otorisasi_1
+  1 fields activated
+Closing Table otorisasi_1 (Table 0) and all active fields
+Log File C:\Qonita Valda Yuhanda_12030122120045 (jgn dihapus)\Qonita Valda Yuhanda_12030122120045.log Opened at 09:50:40 on 05-Jun-2025
+@ OPEN otorisasi_1
+  1 fields activated
+@ OPEN AP_Trans_2021
+Closing Table otorisasi_1 (Table 0) and all active fields
+  6 fields activated
+@ OPEN otorisasi_1
+Closing Table AP_Trans_2021 (Table 0) and all active fields
+  1 fields activated
+@ QUIT
+Closing Table otorisasi_1 (Table 0) and all active fields

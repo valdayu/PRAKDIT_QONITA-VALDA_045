@@ -1,0 +1,15 @@
+FILE_NAME Sheet1.FIL
+~Table Imported via OpenXML Excel 20-May-2025 13:46:22
+~.20-May-2025 13:46:41 _ IMPORT OPENEXCEL TO Sheet1 FILE "C:\Users\akuntansi\Downloads\Cash Disbursement (2).xlsx" TABLE "Sheet1" SERVER "LOCAL" FLAT "Sheet1.FIL" 
+[FILESIZE] 99
+[LASTVIEW] "Sheet1"
+[REFRESH] OPENEXCEL FILE "C:\Users\akuntansi\Downloads\Cash Disbursement (2).xlsx" TABLE "Sheet1" SERVER "LOCAL" FLAT "Sheet1.FIL"
+[SERVER] LOCAL
+[DELIMITED] 0 9 0
+[UTF8]
+[VERSION] 1
+RECORD_LENGTH 108
+Posting_Date                    DATETIME    1  10   PICTURE "yyyy-mm-dd" NATIVE [D]  
+Voucher_Number                  PRINT      11   5 0 DECIMAL '.' NATIVE [D]  
+Paid_to_vendor                  PRINT      16   5 0 DECIMAL '.' NATIVE [D]  
+Amount_Credit                   PRINT      21   9 0 DECIMAL '.' NATIVE [D]  
